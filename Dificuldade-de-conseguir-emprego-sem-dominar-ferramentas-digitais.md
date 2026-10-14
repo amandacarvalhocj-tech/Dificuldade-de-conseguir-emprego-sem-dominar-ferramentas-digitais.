@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - **Grupo:** `[preencher]`
-- **Integrantes:** [`Amanda Carvalho e Gabriel Monteiro`]
+- **Integrantes:** [`Amanda Carvalho, Gabriel Monteiro e Melissa Chagas]
 - **Data:** [`23/09/2026']
 
 ## Preenchimento
@@ -56,9 +56,7 @@ Tema delimitado e justificativa.
 
 ## Contribuições
 
-| Integrante | Atividade realizada |
-|---|---|
-| `[nome]` | `[preencher]` |
+| Melissa | preenchimento e revisão de checklist. |
 --------------
 Tema aprovado
 `[A dificuldade de conseguir emprego para pessoas que não dominam ferramentas digitais, destacando a importância das competências digitais no mercado de trabalho]`
