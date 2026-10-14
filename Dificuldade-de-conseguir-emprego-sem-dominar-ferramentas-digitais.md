@@ -128,25 +128,25 @@ Problema investigado
 provoca demissões por desatualização e direciona trabalhadores sem familiaridade com a tecnologia para o subemprego e a informalidade [149-161].
 
 Objetivo do estudo
-`[O estudo mostra que saber usar o computador e a tecnologia virou regra para conseguir e manter um emprego. Quem não possuí conhecimento nessas ferramentas acaba sem trabalho ou com as piores vagas.]´
+`[O estudo mostra que saber usar o computador e a tecnologia virou regra para conseguir e manter um emprego. Quem não possuí conhecimento nessas ferramentas acaba sem trabalho ou com as piores vagas.]`
 
 Método utilizado
-`[Os pesquisadores utilizaram uma pesquisa por questionário com candidatos a emprego na Espanha, com uma amostra representativa de pessoas que procuravam trabalho.]´
+`[Os pesquisadores utilizaram uma pesquisa por questionário com candidatos a emprego na Espanha, com uma amostra representativa de pessoas que procuravam trabalho.]`
 
 Contexto, amostra ou dados
-`[O estudo fala sobre o uso da tecnologia nas empresas e as dificuldades que os trabalhadores podem enfrentar quando não sabem utilizar computadores e outros recursos digitais. Não foi identificada uma amostra específica.]´
+`[O estudo fala sobre o uso da tecnologia nas empresas e as dificuldades que os trabalhadores podem enfrentar quando não sabem utilizar computadores e outros recursos digitais. Não foi identificada uma amostra específica.]`
 
 Principais resultados
-`[O estudo mostra que a falta de conhecimentos digitais pode dificultar a entrada no mercado de trabalho. Por isso, aprender a usar a tecnologia é importante para conseguir oportunidades e acompanhar as mudanças nas empresas.]´
+`[O estudo mostra que a falta de conhecimentos digitais pode dificultar a entrada no mercado de trabalho. Por isso, aprender a usar a tecnologia é importante para conseguir oportunidades e acompanhar as mudanças nas empresas.]`
 
 Limitações apresentadas
-`[condições de acesso à tecnologia e ao mercado de trabalho diferentes.]´
+`[condições de acesso à tecnologia e ao mercado de trabalho diferentes.]`
 
 Contribuição para o nosso artigo
-`[O estudo contribui para nossa pesquisa porque identifica competências em informação e habilidades digitais necessárias para atuar em ambientes digitais. Essas informações ajudam a compreender por que pessoas que apresentam dificuldades no uso de tecnologias podem enfrentar obstáculos na busca por emprego e na realização de atividades profissionais.]´
+`[O estudo contribui para nossa pesquisa porque identifica competências em informação e habilidades digitais necessárias para atuar em ambientes digitais. Essas informações ajudam a compreender por que pessoas que apresentam dificuldades no uso de tecnologias podem enfrentar obstáculos na busca por emprego e na realização de atividades profissionais.]`
 
 Comentário crítico
-`[O artigo é importante porque mostra que a falta de conhecimentos digitais pode dificultar a busca por emprego. Por isso, é necessário oferecer mais oportunidades de aprendizagem e capacitação, para que as pessoas desenvolvam suas habilidades com a tecnologia e tenham mais chances de entrar no mercado de trabalho.]´
+`[O artigo é importante porque mostra que a falta de conhecimentos digitais pode dificultar a busca por emprego. Por isso, é necessário oferecer mais oportunidades de aprendizagem e capacitação, para que as pessoas desenvolvam suas habilidades com a tecnologia e tenham mais chances de entrar no mercado de trabalho.]`
 
 ### Citação literal opcional
 
@@ -200,7 +200,7 @@ Lista de verificação
 `[O estudo contribui para a pesquisa porque mostra que desenvolver habilidades digitais é importante para lidar com as exigências tecnológicas. Isso ajuda a entender por que pessoas que não dominam essas ferramentas podem enfrentar dificuldades em atividades profissionais e na busca por emprego.]`
 
 ### Comentário crítico
-[O artigo mostra a importância dos conhecimentos digitais para acompanhar as exigências do mercado de trabalho e destaca a necessidade de oferecer mais oportunidades de capacitação.]`
+`[O artigo mostra a importância dos conhecimentos digitais para acompanhar as exigências do mercado de trabalho e destaca a necessidade de oferecer mais oportunidades de capacitação.]`
 
 ### Citação literal opcional
 
@@ -233,15 +233,15 @@ Página: `[número]`
 
 ### Objetivo do estudo
 
-`[O estudo busca compreender como pessoas desempregadas vivenciam a procura por emprego em plataformas digitais e como as dificuldades com a tecnologia afetam esse processo.]´
+`[O estudo busca compreender como pessoas desempregadas vivenciam a procura por emprego em plataformas digitais e como as dificuldades com a tecnologia afetam esse processo.]`
 
 ### Método utilizado
 
-`[[Os pesquisadores realizaram entrevistas detalhadas com 20 pessoas desempregadas e com baixa qualificação na Espanha.]´
+`[[Os pesquisadores realizaram entrevistas detalhadas com 20 pessoas desempregadas e com baixa qualificação na Espanha.]`
 
 ### Contexto, amostra ou dados
 
-`[A pesquisa contou com 20 pessoas desempregadas e com baixa qualificação na Espanha. O estudo analisou as experiências delas ao procurar emprego por meio de plataformas digitais.]´
+`[A pesquisa contou com 20 pessoas desempregadas e com baixa qualificação na Espanha. O estudo analisou as experiências delas ao procurar emprego por meio de plataformas digitais.]`
 
 ### Principais resultados
 
@@ -253,10 +253,10 @@ Página: `[número]`
 
 ### Contribuição para o nosso artigo
 
-`[O artigo contribui para a pesquisa porque mostra situações práticas em que a falta de familiaridade com ferramentas digitais pode dificultar a busca por emprego.]´
+`[O artigo contribui para a pesquisa porque mostra situações práticas em que a falta de familiaridade com ferramentas digitais pode dificultar a busca por emprego.]`
 
 ### Comentário crítico
-[O estudo mostra que a procura por emprego pela internet pode ser difícil para pessoas que não dominam as ferramentas digitais. Por isso, é importante facilitar o acesso às plataformas de vagas e oferecer orientação para seu uso.]`
+`[O estudo mostra que a procura por emprego pela internet pode ser difícil para pessoas que não dominam as ferramentas digitais. Por isso, é importante facilitar o acesso às plataformas de vagas e oferecer orientação para seu uso.]`
 
 ### Citação literal opcional
 
@@ -352,10 +352,8 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[A tecnologia está cada vez mais presente no mercado de trabalho. Muitas empresas divulgam vagas pela internet e recebem currículos por sites e aplicativos. Porém, nem todas as pessoas sabem usar essas ferramentas, o que pode dificultar a busca por emprego.
-
-Quem tem dificuldade para usar computadores, acessar sites ou preencher cadastros pela internet pode encontrar mais obstáculos na hora de procurar uma vaga.
-Por isso, é importante entender como a falta desses conhecimentos pode afetar as oportunidades de trabalho.
+`[A tecnologia está cada vez mais presente no mercado de trabalho. Muitas empresas divulgam vagas pela internet e recebem currículos por sites e aplicativos. Porém, nem todas as pessoas sabem usar essas ferramentas, o que pode dificultar a busca por emprego. Quem tem dificuldade para usar computadores, acessar sites ou preencher cadastros pela internet pode encontrar mais obstáculos na hora de procurar uma vaga.
+Por isso, é importante entender como a falta desses conhecimentos pode afetar as oportunidades de trabalho.]`
 
 O objetivo deste artigo é analisar como a falta de conhecimento sobre ferramentas digitais pode dificultar a procura por emprego e mostrar por que aprender a usar essas ferramentas é importante.]`
 
@@ -386,7 +384,7 @@ Por outro lado, quem não sabe utilizar essas ferramentas pode encontrar mais di
 ## Considerações finais
 
 `[Conclui-se que a falta de conhecimentos digitais pode dificultar a procura por emprego, já que muitas empresas utilizam a internet nos processos seletivos. 
-Por isso, aprender a usar essas ferramentas e ter acesso a cursos pode ajudar as pessoas a encontrar mais oportunidades de trabalho.]
+Por isso, aprender a usar essas ferramentas e ter acesso a cursos pode ajudar as pessoas a encontrar mais oportunidades de trabalho.]`
 
 ## Resumo
 
