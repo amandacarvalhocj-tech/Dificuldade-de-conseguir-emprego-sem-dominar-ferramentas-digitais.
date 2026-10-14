@@ -119,9 +119,9 @@ Preencha uma cópia deste modelo para cada artigo selecionado.
 Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
 
 Identificação do artigo
-completo:[D. F.; ARAÚJO, M. A. D. Alfabetização digital: novo desafio para a inclusão no mundo do trabalho. Interface, Natal, v. 3, n. 2, p. 149-161, jul./dez. 2006.]
-DOI ou URL:[- https://ojs.ccsa.ufrn.br/index.php/interface/article/view/9?utm_source=chatgpt.com]
-Base de:[Portal de Periódicos da Universidade Federal do Rio Grande do Norte (UFRN) / Open Journal Systems (OJS).]
+completo:[DE MARCO, Stefano; DUMONT, Guillaume; HELSPER, Ellen Johanna; DÍAZ-GUERRA, Alejandro; ANTINO, Mirko; RODRÍGUEZ-MUÑOZ, Alfredo; MARTÍNEZ-CANTOS, José-Luis. Jobless and Burnt Out: Digital Inequality and Online Access to the Labor Market. Social Inclusion, v. 11, n. 4, p. 184–197, 2023.]
+DOI ou URL:[https://doi.org/10.17645/si.v11i4.7017]
+Base de:[Revista científica Social Inclusion]
 Leitor responsável:[Amanda e Gabriel]
 Data da leitura:[30/09/2026]
 Fichamento
@@ -133,7 +133,7 @@ Objetivo do estudo
 [O estudo mostra que saber usar o computador e a tecnologia virou regra para conseguir e manter um emprego. Quem não possuí conhecimento nessas ferramentas acaba sem trabalho ou com as piores vagas.]
 
 Método utilizado
-[O artigo apresenta uma discussão sobre como a tecnologia mudou o trabalho e como isso afeta as pessoas que não sabem utilizar as ferramentas digitais.]
+[Os pesquisadores utilizaram uma pesquisa por questionário com candidatos a emprego na Espanha, com uma amostra representativa de pessoas que procuravam trabalho.]
 
 Contexto, amostra ou dados
 [O estudo fala sobre o uso da tecnologia nas empresas e as dificuldades que os trabalhadores podem enfrentar quando não sabem utilizar computadores e outros recursos digitais. Não foi identificada uma amostra específica.]
@@ -142,7 +142,7 @@ Principais resultados
 [O estudo mostra que a falta de conhecimentos digitais pode dificultar a entrada no mercado de trabalho. Por isso, aprender a usar a tecnologia é importante para conseguir oportunidades e acompanhar as mudanças nas empresas.]
 
 Limitações apresentadas
-[Não foram identificadas limitações específicas no material consultado. Como o artigo discute o assunto de forma teórica, seria interessante ter dados de entrevistas com trabalhadores para entender melhor essas dificuldades.]
+[condições de acesso à tecnologia e ao mercado de trabalho diferentes.]
 
 Contribuição para o nosso artigo
 [Esse estudo ajuda no nosso trabalho porque mostra que não saber usar ferramentas digitais pode dificultar a procura por emprego. Também mostra a importância de oferecer cursos e oportunidades de aprendizagem para quem tem dificuldade com a tecnologia.]
@@ -150,17 +150,18 @@ Contribuição para o nosso artigo
 Comentário crítico
 [O artigo é importante porque mostra que a falta de conhecimentos digitais pode dificultar a busca por emprego. Por isso, é necessário oferecer mais oportunidades de aprendizagem e capacitação, para que as pessoas desenvolvam suas habilidades com a tecnologia e tenham mais chances de entrar no mercado de trabalho.]
 
-Citação literal
-[O artigo tem por objetivo discutir a inclusão no mundo do trabalho via alfabetização digital.]
+### Citação literal opcional
 
-Página:[149]
+> `[trecho exato]`
+
+Página: `[número]`
 
 Lista de verificação
-* [x] O artigo foi lido além do resumo.
+* [ ] O artigo foi lido além do resumo.
 * [x] O método e os resultados foram identificados.
 * [x] As limitações foram registradas.
 * [x] A conexão com o tema foi explicada.
-* [x] Toda citação literal contém página.
+* [ ] Toda citação literal contém página.
 
 ## Identificação do artigo
 
@@ -246,7 +247,7 @@ Página: `[número]`
 
 ### Principais resultados
 
-`[[O estudo identificou habilidades relacionadas ao uso da informação e das ferramentas digitais.]`
+`[O estudo identificou habilidades relacionadas ao uso da informação e das ferramentas digitais.]`
 
 ### Limitações apresentadas
 
@@ -254,7 +255,7 @@ Página: `[número]`
 
 ### Contribuição para o nosso artigo
 
-`[[O artigo contribui para a pesquisa porque mostra situações práticas em que a falta de familiaridade com ferramentas digitais pode dificultar a busca por emprego.]´
+`[O artigo contribui para a pesquisa porque mostra situações práticas em que a falta de familiaridade com ferramentas digitais pode dificultar a busca por emprego.]´
 
 ### Comentário crítico
 [O estudo mostra que a procura por emprego pela internet pode ser difícil para pessoas que não dominam as ferramentas digitais. Por isso, é importante facilitar o acesso às plataformas de vagas e oferecer orientação para seu uso.]`
@@ -289,35 +290,118 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[Exclusão digital e dificuldades para conseguir emprego]`|`[Dumont, De Marco e Helsper (2024); Borges e Araújo (2006), como referência complementar]`|`[Os estudos ajudam a compreender como as dificuldades com a tecnologia podem prejudicar a inclusão no mercado de trabalho.]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Exclusão digital]`|`[De Marco et al. (2023); Dumont et al. (2024)]`|`[A falta de habilidades digitais dificulta a busca por emprego.]`|`[Os estudos abordam dificuldades diferentes]`|`[Estudos realizados na Espanha.]`|`[Mais pesquisas sobre o Brasil.]`|
+
+|Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
+|-|-|-|-|-|-|
+|`[Habilidades digitais]`|`[De Marco et al. (2023); Caroline et al. (2024)]`|`[As habilidades digitais favorecem a empregabilidade.]`|`[Os estudos analisam diferentes competências.]`|`[Métodos de pesquisa diferentes.]`|`[Métodos de pesquisa diferentes.]`|
+
+|Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
+|-|-|-|-|-|-|
+|`[Alfabetização digital]`|`[Caroline et al. (2024); De Marco et al. (2023]`|`[O conhecimento digital pode ampliar oportunidades.]`|`[Os estudos possuem enfoques diferentes.]`|`[Pouca análise direta de cursos de capacitação.]`|`[Avaliar os resultados de cursos de inclusão digital.]`|
 
 ## Roteiro da revisão da literatura
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+### Eixo 1
+
+* Ideia principal: `[A falta de conhecimento sobre ferramentas digitais pode dificultar a procura por emprego.]`
+* Evidências que serão usadas: `[Artigos que falam sobre as dificuldades de procurar vagas pela internet.]`
+* Comparação entre estudos: `[Os artigos mostram diferentes dificuldades que as pessoas enfrentam ao procurar emprego online.]`
+* Ligação com o problema: `[Quem não sabe usar ferramentas digitais pode ter mais dificuldade para conseguir emprego.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[Saber usar ferramentas digitais é importante para conseguir um emprego.]`
+* Evidências que serão usadas: `[Artigos que mostram quais habilidades digitais são importantes no mercado de trabalho.]`
+* Comparação entre estudos: `[Os artigos mostram que diferentes conhecimentos digitais podem ajudar na procura por emprego.]`
+* Ligação com o problema: `[Quem não sabe usar essas ferramentas pode ter dificuldades para participar de processos seletivos.]`
+
+### Eixo 3
+
+* Ideia principal: `[Aprender a usar ferramentas digitais pode ajudar na busca por emprego.]`
+* Evidências que serão usadas: `[Artigos que falam sobre o aprendizado digital e as oportunidades de trabalho.]`
+* Comparação entre estudos: `[Os artigos mostram como aprender sobre tecnologia pode ajudar as pessoas a encontrar emprego.]`
+* Ligação com o problema: `[Ter acesso a cursos e aprender a usar a tecnologia pode facilitar a procura por vagas.]`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Os artigos mostram que saber usar ferramentas digitais é importante para conseguir emprego, principalmente porque muitas vagas são divulgadas pela internet. Apesar de abordarem o assunto de formas diferentes, eles destacam as dificuldades de quem não tem esses conhecimentos. Ainda faltam mais estudos sobre essa realidade no Brasil e sobre como os cursos de informática podem ajudar essas pessoas a conseguir emprego.]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
 * [ ] As lacunas são específicas e sustentadas pelas leituras.
 
+# Etapa 6 Redação do artigo
 
+## Solicitação
+
+Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
+
+Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE CRÍTICA*, *CONSIDERAÇÕES FINAIS* E *RESUMO*, a escrita deve ter entre **600 a 700 palavras**.
+
+# Título
+
+`[A importância das habilidades digitais para conseguir emprego]`
+
+## Palavras-chave
+
+`[Habilidades digitais; [Tecnologia.]; [Emprego]`
+
+## Introdução
+
+`[A tecnologia está cada vez mais presente no mercado de trabalho. Muitas empresas divulgam vagas pela internet e recebem currículos por sites e aplicativos. Porém, nem todas as pessoas sabem usar essas ferramentas, o que pode dificultar a busca por emprego.
+
+Quem tem dificuldade para usar computadores, acessar sites ou preencher cadastros pela internet pode encontrar mais obstáculos na hora de procurar uma vaga.
+Por isso, é importante entender como a falta desses conhecimentos pode afetar as oportunidades de trabalho.
+
+O objetivo deste artigo é analisar como a falta de conhecimento sobre ferramentas digitais pode dificultar a procura por emprego e mostrar por que aprender a usar essas ferramentas é importante.]`
+
+## Metodologia
+
+`[Foi feita uma revisão bibliográfica com três artigos científicos publicados entre 2023 e 2024. Os textos foram comparados para entender como o conhecimento digital influencia a procura por emprego e as oportunidades profissionais.]`
+
+## Revisão da literatura
+
+### `[Eixo 1]`
+
+`[CDe Marco et al. (2023) mostraram que pessoas com mais conhecimentos digitais tinham mais chances de conseguir emprego pela internet. Dumont et al. (2024) também estudaram as dificuldades enfrentadas por pessoas desempregadas ao procurar vagas online. Os dois estudos mostram que não saber usar bem a tecnologia pode dificultar a busca por trabalho.]`
+
+### `[Eixo 2]`
+
+`[Caroline et al. (2024) destacaram a importância dos conhecimentos digitais para o desenvolvimento profissional. Em conjunto, os estudos mostram que saber usar a tecnologia pode ajudar na procura por vagas e na participação em processos seletivos. Porém, ainda são necessárias mais pesquisas sobre essa realidade no Brasil.]`
+
+### `[Eixo 3]`
+
+`[Caroline et al. (2024) destacaram a importância dos conhecimentos digitais para o desenvolvimento profissional. Em conjunto, os estudos mostram que saber usar a tecnologia pode ajudar na procura por vagas e na participação em processos seletivos. Porém, ainda são necessárias mais pesquisas sobre essa realidade no Brasil.]`
+
+
+### Síntese crítica
+
+`[Apresente tendências, convergências, divergências e lacunas.]`
+
+## Considerações finais
+
+`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+
+## Resumo
+
+`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+
+## Referências
+
+`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+
+## Checklist
+
+* [ ] A introdução termina com o objetivo.
+* [ ] A metodologia descreve o processo realmente realizado.
+* [ ] A revisão compara os artigos.
+* [ ] A conclusão responde ao problema.
+* [ ] O resumo representa o texto completo.
 
 
