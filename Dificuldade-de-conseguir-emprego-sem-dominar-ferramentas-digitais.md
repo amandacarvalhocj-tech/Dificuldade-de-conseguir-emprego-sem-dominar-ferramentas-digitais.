@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - **Grupo:** `[preencher]`
-- **Integrantes:** [`Amanda Carvalho, Gabriel Monteiro e Melissa Chagas]
+- **Integrantes:** [Amanda Carvalho, Gabriel Monteiro e Melissa Chagas]
 - **Data:** [`23/09/2026']
 
 ## Preenchimento
